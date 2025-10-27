@@ -4,5 +4,5 @@ data class ProductoBD(
     val marca_prod: String,
     val categoria_prod: String,
     val precio_prod: Double,
-    val stock_prod: Int
+    val stock: Int
 )
